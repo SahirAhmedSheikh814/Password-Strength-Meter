@@ -23,7 +23,8 @@ git clone https://github.com/SahirAhmedSheikh814/Password-Strength-Meter.git
 cd Password-Strength-Meter
 pip install streamlit
 streamlit run app.py
-🎯 How It Works
+
+## 🎯 How It Works
 Enter a password in the input field.
 The tool analyzes the password based on length, uppercase/lowercase letters, numbers, and special characters.
 It provides a strength rating and suggestions for improvement.
@@ -32,12 +33,12 @@ It provides a strength rating and suggestions for improvement.
 🔹 More advanced strength indicators
 🔹 Dark mode for better UI
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-💬 Feedback
+## 💬 Feedback
 If you have any suggestions or feedback, let me know! You can reach out on LinkedIn:
 [Sahir Ahmed Sheikh](https://www.linkedin.com/in/sahirahmedsheikh/)
